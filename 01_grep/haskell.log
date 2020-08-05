@@ -1,0 +1,269 @@
+Reading package info from stdin ... done.
+aeson-pretty-0.8.8: Warning: haddock-interfaces: /usr/share/doc/haskell-aeson-pretty/html/aeson-pretty.haddock doesn't exist or isn't a file
+aeson-pretty-0.8.8: Warning: haddock-html: /usr/share/doc/haskell-aeson-pretty/html doesn't exist or isn't a directory
+aeson-pretty-0.8.8: dependency "aeson-1.5.2.0-7cPnEEpM6rgJJrGq6G7thP" doesn't exist (ignoring)
+aeson-pretty-0.8.8: dependency "base-compat-0.11.1-KZnxD44j0rC2RthL96Vmwl" doesn't exist (ignoring)
+aeson-pretty-0.8.8: dependency "scientific-0.3.6.2-10wmiIDNYKiAM8wpPu8PW8" doesn't exist (ignoring)
+aeson-pretty-0.8.8: dependency "unordered-containers-0.2.11.0-4xXgRDqRkAy1dBzEEXx9oz" doesn't exist (ignoring)
+aeson-pretty-0.8.8: dependency "vector-0.12.1.2-H0z3zqOucdK6qK7YVRJGW2" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+aeson-1.5.2.0: Warning: haddock-interfaces: /usr/share/doc/haskell-aeson/html/aeson.haddock doesn't exist or isn't a file
+aeson-1.5.2.0: Warning: haddock-html: /usr/share/doc/haskell-aeson/html doesn't exist or isn't a directory
+aeson-1.5.2.0: dependency "attoparsec-0.13.2.4-2hXHhVC1QQNJDYHhvxUfCW" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "base-compat-batteries-0.11.1-KAceEp8eIDD3qxcd9kcZGQ" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "dlist-0.8.0.8-8gtYqNP0Z4Y1dQ6Mo6PTTP" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "hashable-1.3.0.0-9VsPqbCnhR5IR1hPcVPQ9S" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "primitive-0.7.1.0-Cabm7bcbTFaJrdRYs3QMp6" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "scientific-0.3.6.2-10wmiIDNYKiAM8wpPu8PW8" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "tagged-0.8.6-6GC8EUw1ctH7ZAzzvpqZ7j" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "th-abstraction-0.3.2.0-4yEKsz3hkum2d9EYr8unnF" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "these-1.1-7Aj4SB6YEclHvDsumpvPJa" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "time-compat-1.9.3-5QKeEZLAQ7TBEZ1d3Sllg6" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "unordered-containers-0.2.11.0-4xXgRDqRkAy1dBzEEXx9oz" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "uuid-types-1.0.3-JaLQnhy0BxVDpUvGrw4Bqe" doesn't exist (ignoring)
+aeson-1.5.2.0: dependency "vector-0.12.1.2-H0z3zqOucdK6qK7YVRJGW2" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+ansi-terminal-0.10.3: Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-terminal/html/ansi-terminal.haddock doesn't exist or isn't a file
+ansi-terminal-0.10.3: Warning: haddock-html: /usr/share/doc/haskell-ansi-terminal/html doesn't exist or isn't a directory
+ansi-terminal-0.10.3: dependency "colour-2.3.5-6HJ0u1ESMepDytAgyplyed" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+asn1-encoding-0.9.6: Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-encoding/html/asn1-encoding.haddock doesn't exist or isn't a file
+asn1-encoding-0.9.6: Warning: haddock-html: /usr/share/doc/haskell-asn1-encoding/html doesn't exist or isn't a directory
+asn1-encoding-0.9.6: dependency "asn1-types-0.3.4-ELdjn9L74UUIh7yNGan6xq" doesn't exist (ignoring)
+asn1-encoding-0.9.6: dependency "hourglass-0.2.12-EUwEeslWKYEH6RDHtA2wCm" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+asn1-parse-0.9.5: Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-parse/html/asn1-parse.haddock doesn't exist or isn't a file
+asn1-parse-0.9.5: Warning: haddock-html: /usr/share/doc/haskell-asn1-parse/html doesn't exist or isn't a directory
+asn1-parse-0.9.5: dependency "asn1-types-0.3.4-ELdjn9L74UUIh7yNGan6xq" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+asn1-types-0.3.4: Warning: haddock-interfaces: /usr/share/doc/haskell-asn1-types/html/asn1-types.haddock doesn't exist or isn't a file
+asn1-types-0.3.4: Warning: haddock-html: /usr/share/doc/haskell-asn1-types/html doesn't exist or isn't a directory
+asn1-types-0.3.4: dependency "hourglass-0.2.12-EUwEeslWKYEH6RDHtA2wCm" doesn't exist (ignoring)
+asn1-types-0.3.4: dependency "memory-0.15.0-EuehB4FMe9b5ts9dSjTFQ5" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+assoc-1.0.1: Warning: haddock-interfaces: /usr/share/doc/haskell-assoc/html/assoc.haddock doesn't exist or isn't a file
+assoc-1.0.1: Warning: haddock-html: /usr/share/doc/haskell-assoc/html doesn't exist or isn't a directory
+assoc-1.0.1: dependency "bifunctors-5.5.7-Kv2POeR7lX26C6YHV0HRkz" doesn't exist (ignoring)
+assoc-1.0.1: dependency "tagged-0.8.6-6GC8EUw1ctH7ZAzzvpqZ7j" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+async-2.2.2: Warning: haddock-interfaces: /usr/share/doc/haskell-async/html/async.haddock doesn't exist or isn't a file
+async-2.2.2: Warning: haddock-html: /usr/share/doc/haskell-async/html doesn't exist or isn't a directory
+async-2.2.2: dependency "hashable-1.3.0.0-9VsPqbCnhR5IR1hPcVPQ9S" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+attoparsec-0.13.2.4: Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec/html/attoparsec.haddock doesn't exist or isn't a file
+attoparsec-0.13.2.4: Warning: haddock-html: /usr/share/doc/haskell-attoparsec/html doesn't exist or isn't a directory
+attoparsec-0.13.2.4: dependency "scientific-0.3.6.2-10wmiIDNYKiAM8wpPu8PW8" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+base-compat-batteries-0.11.1: Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat-batteries/html/base-compat-batteries.haddock doesn't exist or isn't a file
+base-compat-batteries-0.11.1: Warning: haddock-html: /usr/share/doc/haskell-base-compat-batteries/html doesn't exist or isn't a directory
+base-compat-batteries-0.11.1: dependency "base-compat-0.11.1-KZnxD44j0rC2RthL96Vmwl" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+base-compat-0.11.1: Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat/html/base-compat.haddock doesn't exist or isn't a file
+base-compat-0.11.1: Warning: haddock-html: /usr/share/doc/haskell-base-compat/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+base-orphans-0.8.2: Warning: haddock-interfaces: /usr/share/doc/haskell-base-orphans/html/base-orphans.haddock doesn't exist or isn't a file
+base-orphans-0.8.2: Warning: haddock-html: /usr/share/doc/haskell-base-orphans/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+base16-bytestring-0.1.1.7: Warning: haddock-interfaces: /usr/share/doc/haskell-base16-bytestring/html/base16-bytestring.haddock doesn't exist or isn't a file
+base16-bytestring-0.1.1.7: Warning: haddock-html: /usr/share/doc/haskell-base16-bytestring/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+base64-bytestring-1.1.0.0: Warning: haddock-interfaces: /usr/share/doc/haskell-base64-bytestring/html/base64-bytestring.haddock doesn't exist or isn't a file
+base64-bytestring-1.1.0.0: Warning: haddock-html: /usr/share/doc/haskell-base64-bytestring/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+basement-0.0.11: Warning: haddock-interfaces: /usr/share/doc/haskell-basement/html/basement.haddock doesn't exist or isn't a file
+basement-0.0.11: Warning: haddock-html: /usr/share/doc/haskell-basement/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+bifunctors-5.5.7: Warning: haddock-interfaces: /usr/share/doc/haskell-bifunctors/html/bifunctors.haddock doesn't exist or isn't a file
+bifunctors-5.5.7: Warning: haddock-html: /usr/share/doc/haskell-bifunctors/html doesn't exist or isn't a directory
+bifunctors-5.5.7: dependency "comonad-5.0.6-KcKrHKRkGOZ50Yzo9mZZYb" doesn't exist (ignoring)
+bifunctors-5.5.7: dependency "tagged-0.8.6-6GC8EUw1ctH7ZAzzvpqZ7j" doesn't exist (ignoring)
+bifunctors-5.5.7: dependency "th-abstraction-0.3.2.0-4yEKsz3hkum2d9EYr8unnF" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+bitarray-0.0.1.1: Warning: haddock-interfaces: /usr/share/doc/haskell-bitarray/html/bitarray.haddock doesn't exist or isn't a file
+bitarray-0.0.1.1: Warning: haddock-html: /usr/share/doc/haskell-bitarray/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+blaze-builder-0.4.1.0: Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-builder/html/blaze-builder.haddock doesn't exist or isn't a file
+blaze-builder-0.4.1.0: Warning: haddock-html: /usr/share/doc/haskell-blaze-builder/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+blaze-html-0.9.1.2: Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-html/html/blaze-html.haddock doesn't exist or isn't a file
+blaze-html-0.9.1.2: Warning: haddock-html: /usr/share/doc/haskell-blaze-html/html doesn't exist or isn't a directory
+blaze-html-0.9.1.2: dependency "blaze-markup-0.8.2.5-E0VoL1TqmRy2UxY2gFpx0K" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+blaze-markup-0.8.2.5: Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-markup/html/blaze-markup.haddock doesn't exist or isn't a file
+blaze-markup-0.8.2.5: Warning: haddock-html: /usr/share/doc/haskell-blaze-markup/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+byteable-0.1.1: Warning: haddock-interfaces: /usr/share/doc/haskell-byteable/html/byteable.haddock doesn't exist or isn't a file
+byteable-0.1.1: Warning: haddock-html: /usr/share/doc/haskell-byteable/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+case-insensitive-1.2.1.0: Warning: haddock-interfaces: /usr/share/doc/haskell-case-insensitive/html/case-insensitive.haddock doesn't exist or isn't a file
+case-insensitive-1.2.1.0: Warning: haddock-html: /usr/share/doc/haskell-case-insensitive/html doesn't exist or isn't a directory
+case-insensitive-1.2.1.0: dependency "hashable-1.3.0.0-9VsPqbCnhR5IR1hPcVPQ9S" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+cereal-0.5.8.1: Warning: haddock-interfaces: /usr/share/doc/haskell-cereal/html/cereal.haddock doesn't exist or isn't a file
+cereal-0.5.8.1: Warning: haddock-html: /usr/share/doc/haskell-cereal/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+cmark-gfm-0.2.1: Warning: haddock-interfaces: /usr/share/doc/haskell-cmark-gfm/html/cmark-gfm.haddock doesn't exist or isn't a file
+cmark-gfm-0.2.1: Warning: haddock-html: /usr/share/doc/haskell-cmark-gfm/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+cmdargs-0.10.20: Warning: haddock-interfaces: /usr/share/doc/haskell-cmdargs/html/cmdargs.haddock doesn't exist or isn't a file
+cmdargs-0.10.20: Warning: haddock-html: /usr/share/doc/haskell-cmdargs/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+colour-2.3.5: Warning: haddock-interfaces: /usr/share/doc/haskell-colour/html/colour.haddock doesn't exist or isn't a file
+colour-2.3.5: Warning: haddock-html: /usr/share/doc/haskell-colour/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+comonad-5.0.6: Warning: haddock-interfaces: /usr/share/doc/haskell-comonad/html/comonad.haddock doesn't exist or isn't a file
+comonad-5.0.6: Warning: haddock-html: /usr/share/doc/haskell-comonad/html doesn't exist or isn't a directory
+comonad-5.0.6: dependency "distributive-0.6.2-5qQnHLijC69GCJA91KsFwR" doesn't exist (ignoring)
+comonad-5.0.6: dependency "tagged-0.8.6-6GC8EUw1ctH7ZAzzvpqZ7j" doesn't exist (ignoring)
+comonad-5.0.6: dependency "transformers-compat-0.6.5-5FpQwDSHwAD8xLwpEoaQi" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+connection-0.3.1: Warning: haddock-interfaces: /usr/share/doc/haskell-connection/html/connection.haddock doesn't exist or isn't a file
+connection-0.3.1: Warning: haddock-html: /usr/share/doc/haskell-connection/html doesn't exist or isn't a directory
+connection-0.3.1: dependency "data-default-class-0.1.2.0-AZTcEqCsR4uCdCN1ROsSjZ" doesn't exist (ignoring)
+connection-0.3.1: dependency "network-3.1.1.1-21cfXONzmdN6SdhuDmk3jf" doesn't exist (ignoring)
+connection-0.3.1: dependency "socks-0.6.1-1pztzZkFJ0bGzdhW6JEXug" doesn't exist (ignoring)
+connection-0.3.1: dependency "tls-1.5.4-7XryTTO0WUeAbRY5iTzw0d" doesn't exist (ignoring)
+connection-0.3.1: dependency "x509-1.7.5-1LQwXnegN5Y28n4kI4OXNS" doesn't exist (ignoring)
+connection-0.3.1: dependency "x509-store-1.6.7-2d0B5xbKlDv43MdPYr2YqL" doesn't exist (ignoring)
+connection-0.3.1: dependency "x509-system-1.6.6-Kg2TVu9LnPdIYaGrQojrUp" doesn't exist (ignoring)
+connection-0.3.1: dependency "x509-validation-1.6.11-2eeyrCHVjCP8l8zNbNahG9" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+cookie-0.4.5: Warning: haddock-interfaces: /usr/share/doc/haskell-cookie/html/cookie.haddock doesn't exist or isn't a file
+cookie-0.4.5: Warning: haddock-html: /usr/share/doc/haskell-cookie/html doesn't exist or isn't a directory
+cookie-0.4.5: dependency "data-default-class-0.1.2.0-AZTcEqCsR4uCdCN1ROsSjZ" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+cryptonite-0.27: Warning: haddock-interfaces: /usr/share/doc/haskell-cryptonite/html/cryptonite.haddock doesn't exist or isn't a file
+cryptonite-0.27: Warning: haddock-html: /usr/share/doc/haskell-cryptonite/html doesn't exist or isn't a directory
+cryptonite-0.27: dependency "memory-0.15.0-EuehB4FMe9b5ts9dSjTFQ5" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+data-default-class-0.1.2.0: Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-class/html/data-default-class.haddock doesn't exist or isn't a file
+data-default-class-0.1.2.0: Warning: haddock-html: /usr/share/doc/haskell-data-default-class/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+data-default-instances-containers-0.0.1: Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-containers/html/data-default-instances-containers.haddock doesn't exist or isn't a file
+data-default-instances-containers-0.0.1: Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-containers/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+data-default-instances-dlist-0.0.1: Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-dlist/html/data-default-instances-dlist.haddock doesn't exist or isn't a file
+data-default-instances-dlist-0.0.1: Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-dlist/html doesn't exist or isn't a directory
+data-default-instances-dlist-0.0.1: dependency "dlist-0.8.0.8-8gtYqNP0Z4Y1dQ6Mo6PTTP" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+data-default-instances-old-locale-0.0.1: Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-old-locale/html/data-default-instances-old-locale.haddock doesn't exist or isn't a file
+data-default-instances-old-locale-0.0.1: Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-old-locale/html doesn't exist or isn't a directory
+data-default-instances-old-locale-0.0.1: dependency "old-locale-1.0.0.7-He1fhgasqBf2zFT9zlaLle" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+data-default-0.7.1.1: Warning: haddock-interfaces: /usr/share/doc/haskell-data-default/html/data-default.haddock doesn't exist or isn't a file
+data-default-0.7.1.1: Warning: haddock-html: /usr/share/doc/haskell-data-default/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+digest-0.0.1.2: Warning: haddock-interfaces: /usr/share/doc/haskell-digest/html/digest.haddock doesn't exist or isn't a file
+digest-0.0.1.2: Warning: haddock-html: /usr/share/doc/haskell-digest/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+distributive-0.6.2: Warning: haddock-interfaces: /usr/share/doc/haskell-distributive/html/distributive.haddock doesn't exist or isn't a file
+distributive-0.6.2: Warning: haddock-html: /usr/share/doc/haskell-distributive/html doesn't exist or isn't a directory
+distributive-0.6.2: dependency "tagged-0.8.6-6GC8EUw1ctH7ZAzzvpqZ7j" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+dlist-0.8.0.8: Warning: haddock-interfaces: /usr/share/doc/haskell-dlist/html/dlist.haddock doesn't exist or isn't a file
+dlist-0.8.0.8: Warning: haddock-html: /usr/share/doc/haskell-dlist/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+doclayout-0.3: Warning: haddock-interfaces: /usr/share/doc/haskell-doclayout/html/doclayout.haddock doesn't exist or isn't a file
+doclayout-0.3: Warning: haddock-html: /usr/share/doc/haskell-doclayout/html doesn't exist or isn't a directory
+doclayout-0.3: dependency "safe-0.3.19-CK0lfIX5mWD7fu30IXX07t" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+doctemplates-0.8.2: Warning: haddock-interfaces: /usr/share/doc/haskell-doctemplates/html/doctemplates.haddock doesn't exist or isn't a file
+doctemplates-0.8.2: Warning: haddock-html: /usr/share/doc/haskell-doctemplates/html doesn't exist or isn't a directory
+doctemplates-0.8.2: dependency "HsYAML-0.2.1.0-Gu0BV1ygSId8Qpozs6OZAW" doesn't exist (ignoring)
+doctemplates-0.8.2: dependency "safe-0.3.19-CK0lfIX5mWD7fu30IXX07t" doesn't exist (ignoring)
+doctemplates-0.8.2: dependency "scientific-0.3.6.2-10wmiIDNYKiAM8wpPu8PW8" doesn't exist (ignoring)
+doctemplates-0.8.2: dependency "text-conversions-0.3.0-6bZIm3tEqzDE2NYztlMfic" doesn't exist (ignoring)
+doctemplates-0.8.2: dependency "unordered-containers-0.2.11.0-4xXgRDqRkAy1dBzEEXx9oz" doesn't exist (ignoring)
+doctemplates-0.8.2: dependency "vector-0.12.1.2-H0z3zqOucdK6qK7YVRJGW2" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+emojis-0.1: Warning: haddock-interfaces: /usr/share/doc/haskell-emojis/html/emojis.haddock doesn't exist or isn't a file
+emojis-0.1: Warning: haddock-html: /usr/share/doc/haskell-emojis/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+erf-2.0.0.0: Warning: haddock-interfaces: /usr/share/doc/haskell-erf/html/erf.haddock doesn't exist or isn't a file
+erf-2.0.0.0: Warning: haddock-html: /usr/share/doc/haskell-erf/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+errors-2.3.0: Warning: haddock-interfaces: /usr/share/doc/haskell-errors/html/errors.haddock doesn't exist or isn't a file
+errors-2.3.0: Warning: haddock-html: /usr/share/doc/haskell-errors/html doesn't exist or isn't a directory
+errors-2.3.0: dependency "safe-0.3.19-CK0lfIX5mWD7fu30IXX07t" doesn't exist (ignoring)
+errors-2.3.0: dependency "transformers-compat-0.6.5-5FpQwDSHwAD8xLwpEoaQi" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+Glob-0.10.0: Warning: haddock-interfaces: /usr/share/doc/haskell-glob/html/Glob.haddock doesn't exist or isn't a file
+Glob-0.10.0: Warning: haddock-html: /usr/share/doc/haskell-glob/html doesn't exist or isn't a directory
+Glob-0.10.0: dependency "transformers-compat-0.6.5-5FpQwDSHwAD8xLwpEoaQi" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+haddock-library-1.9.0: Warning: haddock-interfaces: /usr/share/doc/haskell-haddock-library/html/haddock-library.haddock doesn't exist or isn't a file
+haddock-library-1.9.0: Warning: haddock-html: /usr/share/doc/haskell-haddock-library/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+hashable-1.3.0.0: Warning: haddock-interfaces: /usr/share/doc/haskell-hashable/html/hashable.haddock doesn't exist or isn't a file
+hashable-1.3.0.0: Warning: haddock-html: /usr/share/doc/haskell-hashable/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+hourglass-0.2.12: Warning: haddock-interfaces: /usr/share/doc/haskell-hourglass/html/hourglass.haddock doesn't exist or isn't a file
+hourglass-0.2.12: Warning: haddock-html: /usr/share/doc/haskell-hourglass/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+hslua-module-system-0.2.1: Warning: haddock-interfaces: /usr/share/doc/haskell-hslua-module-system/html/hslua-module-system.haddock doesn't exist or isn't a file
+hslua-module-system-0.2.1: Warning: haddock-html: /usr/share/doc/haskell-hslua-module-system/html doesn't exist or isn't a directory
+hslua-module-system-0.2.1: dependency "hslua-1.1.2-EJoiOxCdFNpL8u032dO2nk" doesn't exist (ignoring)
+hslua-module-system-0.2.1: dependency "temporary-1.3-3t9vt1pttAbD63iEk7noKl" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+hslua-module-text-0.2.1: Warning: haddock-interfaces: /usr/share/doc/haskell-hslua-module-text/html/hslua-module-text.haddock doesn't exist or isn't a file
+hslua-module-text-0.2.1: Warning: haddock-html: /usr/share/doc/haskell-hslua-module-text/html doesn't exist or isn't a directory
+hslua-module-text-0.2.1: dependency "hslua-1.1.2-EJoiOxCdFNpL8u032dO2nk" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+hslua-1.1.2: Warning: haddock-interfaces: /usr/share/doc/haskell-hslua/html/hslua.haddock doesn't exist or isn't a file
+hslua-1.1.2: Warning: haddock-html: /usr/share/doc/haskell-hslua/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+HsYAML-0.2.1.0: Warning: haddock-interfaces: /usr/share/doc/haskell-hsyaml/html/HsYAML.haddock doesn't exist or isn't a file
+HsYAML-0.2.1.0: Warning: haddock-html: /usr/share/doc/haskell-hsyaml/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+http-client-tls-0.3.5.3: Warning: haddock-interfaces: /usr/share/doc/haskell-http-client-tls/html/http-client-tls.haddock doesn't exist or isn't a file
+http-client-tls-0.3.5.3: Warning: haddock-html: /usr/share/doc/haskell-http-client-tls/html doesn't exist or isn't a directory
+http-client-tls-0.3.5.3: dependency "http-client-0.7.1-3IoUFUsyx9ZEJPUZvr3Vda" doesn't exist (ignoring)
+http-client-tls-0.3.5.3: dependency "http-types-0.12.3-1N2VcECX2JlEfqAaC3FiOh" doesn't exist (ignoring)
+http-client-tls-0.3.5.3: dependency "memory-0.15.0-EuehB4FMe9b5ts9dSjTFQ5" doesn't exist (ignoring)
+http-client-tls-0.3.5.3: dependency "network-3.1.1.1-21cfXONzmdN6SdhuDmk3jf" doesn't exist (ignoring)
+http-client-tls-0.3.5.3: dependency "network-uri-2.6.3.0-IhmAlgOQHA4KcDUz211xOF" doesn't exist (ignoring)
+http-client-tls-0.3.5.3: dependency "tls-1.5.4-7XryTTO0WUeAbRY5iTzw0d" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+http-client-0.7.1: Warning: haddock-interfaces: /usr/share/doc/haskell-http-client/html/http-client.haddock doesn't exist or isn't a file
+http-client-0.7.1: Warning: haddock-html: /usr/share/doc/haskell-http-client/html doesn't exist or isn't a directory
+http-client-0.7.1: dependency "http-types-0.12.3-1N2VcECX2JlEfqAaC3FiOh" doesn't exist (ignoring)
+http-client-0.7.1: dependency "memory-0.15.0-EuehB4FMe9b5ts9dSjTFQ5" doesn't exist (ignoring)
+http-client-0.7.1: dependency "mime-types-0.1.0.9-87QZTn3gw1IEfzrfe6o46" doesn't exist (ignoring)
+http-client-0.7.1: dependency "network-3.1.1.1-21cfXONzmdN6SdhuDmk3jf" doesn't exist (ignoring)
+http-client-0.7.1: dependency "network-uri-2.6.3.0-IhmAlgOQHA4KcDUz211xOF" doesn't exist (ignoring)
+http-client-0.7.1: dependency "random-1.1-AA3zCuOgsVZCzsZYE3CMpY" doesn't exist (ignoring)
+http-client-0.7.1: dependency "streaming-commons-0.2.1.2-9LAiEMR2S3zISjhpQyBIlw" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+http-types-0.12.3: Warning: haddock-interfaces: /usr/share/doc/haskell-http-types/html/http-types.haddock doesn't exist or isn't a file
+http-types-0.12.3: Warning: haddock-html: /usr/share/doc/haskell-http-types/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+HTTP-4000.3.14: Warning: haddock-interfaces: /usr/share/doc/haskell-http/html/HTTP.haddock doesn't exist or isn't a file
+HTTP-4000.3.14: Warning: haddock-html: /usr/share/doc/haskell-http/html doesn't exist or isn't a directory
+HTTP-4000.3.14: dependency "network-3.1.1.1-21cfXONzmdN6SdhuDmk3jf" doesn't exist (ignoring)
+HTTP-4000.3.14: dependency "network-uri-2.6.3.0-IhmAlgOQHA4KcDUz211xOF" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+hxt-charproperties-9.4.0.0: Warning: haddock-interfaces: /usr/share/doc/haskell-hxt-charproperties/html/hxt-charproperties.haddock doesn't exist or isn't a file
+hxt-charproperties-9.4.0.0: Warning: haddock-html: /usr/share/doc/haskell-hxt-charproperties/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+hxt-regex-xmlschema-9.2.0.3: Warning: haddock-interfaces: /usr/share/doc/haskell-hxt-regex-xmlschema/html/hxt-regex-xmlschema.haddock doesn't exist or isn't a file
+hxt-regex-xmlschema-9.2.0.3: Warning: haddock-html: /usr/share/doc/haskell-hxt-regex-xmlschema/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+hxt-unicode-9.0.2.4: Warning: haddock-interfaces: /usr/share/doc/haskell-hxt-unicode/html/hxt-unicode.haddock doesn't exist or isn't a file
+hxt-unicode-9.0.2.4: Warning: haddock-html: /usr/share/doc/haskell-hxt-unicode/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+hxt-9.3.1.18: Warning: haddock-interfaces: /usr/share/doc/haskell-hxt/html/hxt.haddock doesn't exist or isn't a file
+hxt-9.3.1.18: Warning: haddock-html: /usr/share/doc/haskell-hxt/html doesn't exist or isn't a directory
+hxt-9.3.1.18: dependency "network-uri-2.6.3.0-IhmAlgOQHA4KcDUz211xOF" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+integer-logarithms-1.0.3: Warning: haddock-interfaces: /usr/share/doc/haskell-integer-logarithms/html/integer-logarithms.haddock doesn't exist or isn't a file
+integer-logarithms-1.0.3: Warning: haddock-html: /usr/share/doc/haskell-integer-logarithms/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+ipynb-0.1.0.1: Warning: haddock-interfaces: /usr/share/doc/haskell-ipynb/html/ipynb.haddock doesn't exist or isn't a file
+There is no pacman in this file!
+ipynb-0.1.0.1: Warning: haddock-html: /usr/share/doc/haskell-ipynb/html doesn't exist or isn't a directory
+ipynb-0.1.0.1: dependency "unordered-containers-0.2.11.0-4xXgRDqRkAy1dBzEEXx9oz" doesn't exist (ignoring)
+Reading package info from stdin ... done.
+jira-wiki-markup-1.2.0: Warning: haddock-interfaces: /usr/share/doc/haskell-jira-wiki-markup/html/jira-wiki-markup.haddock doesn't exist or isn't a file
+jira-wiki-markup-1.2.0: Warning: haddock-html: /usr/share/doc/haskell-jira-wiki-markup/html doesn't exist or isn't a directory
+Reading package info from stdin ... done.
+JuicyPixels-3.3.5: Warning: haddock-interfaces: /usr/share/doc/haskell-juicypixels/html/JuicyPixels.haddock doesn't exist or isn't a file
