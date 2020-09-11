@@ -1,0 +1,104 @@
+[2019-05-13T20:40:39+0200] [PACMAN] Running 'pacman -Rs chromium'
+[2019-05-13T20:40:40+0200] [ALPM] transaction started
+[2019-05-13T20:40:41+0200] [ALPM] removed chromium (83.0.4103.116-2)
+[2019-05-13T20:40:41+0200] [ALPM] transaction completed
+[2019-05-13T20:40:41+0200] [ALPM] running '2020-systemd-update.hook'...
+[2019-05-13T20:40:41+0200] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2019-05-13T20:40:41+0200] [ALPM] running 'update-desktop-database.hook'...
+[2019-07-13T20:40:48+0200] [PACMAN] Running 'pacman -Rs chromium'
+[2019-07-16T20:52:09+0200] [PACMAN] Running 'pacman -U --noconfirm --config /etc/pacman.conf -- /home/hypnos/.config/cache/yay/aseprite/aseprite-1.2.21-1-x86_64.pkg.tar.xz'
+[2019-07-16T20:52:09+0200] [ALPM] transaction started
+[2019-07-16T20:52:10+0200] [ALPM] installed aseprite (1.2.21-1)
+[2019-07-16T20:52:10+0200] [ALPM] transaction completed
+[2019-07-16T20:52:10+0200] [ALPM] running '2020-systemd-update.hook'...
+[2019-07-16T20:52:10+0200] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2019-07-16T20:52:10+0200] [ALPM] running 'update-desktop-database.hook'...
+[2019-07-20T21:07:57+0200] [PACMAN] Running 'pacman -S zathura'
+[2019-07-20T21:07:59+0200] [ALPM] transaction started
+[2019-07-20T21:07:59+0200] [ALPM] installed girara (0.3.4-2)
+[2019-07-20T21:07:59+0200] [ALPM] installed zathura (0.4.5-1)
+[2019-07-20T21:07:59+0200] [ALPM] transaction completed
+[2019-07-20T21:07:59+0200] [ALPM] running '2020-systemd-update.hook'...
+[2019-07-20T21:07:59+0200] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2019-07-20T21:07:59+0200] [ALPM] running 'update-desktop-database.hook'...
+[2019-07-20T21:08:02+0200] [PACMAN] Running 'pacman -S zathura-pdf-mupdf'
+[2019-07-20T21:08:12+0200] [ALPM] transaction started
+[2019-07-20T21:08:12+0200] [ALPM] installed zathura-pdf-mupdf (0.3.5-3)
+[2019-07-20T21:08:12+0200] [ALPM] transaction completed
+[2019-07-20T21:08:12+0200] [ALPM] running '2020-systemd-update.hook'...
+[2019-07-20T21:08:12+0200] [ALPM] running 'update-desktop-database.hook'...
+[2019-07-22T15:40:56+0200] [PACMAN] Running 'pacman -S -u -y --config /etc/pacman.conf --'
+[2019-07-22T15:40:56+0200] [PACMAN] synchronizing package lists
+[2019-07-22T15:40:59+0200] [PACMAN] starting full system upgrade
+[2019-07-23T09:50:08+0200] [PACMAN] Running 'pacman -S sane'
+[2019-07-23T09:50:10+0200] [ALPM] transaction started
+[2019-07-23T09:50:10+0200] [ALPM] reinstalled sane (1.0.2020-1)
+[2019-07-23T09:50:10+0200] [ALPM] transaction completed
+[2019-07-23T09:50:10+0200] [ALPM] running '2020-systemd-daemon-reload.hook'...
+[2019-07-23T09:50:11+0200] [ALPM] running '2020-systemd-udev-reload.hook'...
+[2019-07-23T09:50:11+0200] [ALPM] running '2020-systemd-update.hook'...
+[2019-07-23T09:54:01+0200] [PACMAN] Running 'pacman -S ipp-usb'
+[2020-07-23T09:54:03+0200] [ALPM] transaction started
+[2020-07-23T09:54:03+0200] [ALPM] installed ipp-usb (0.9.10-1)
+[2020-07-23T09:54:03+0200] [ALPM] transaction completed
+[2020-07-23T09:54:03+0200] [ALPM] running '2020-systemd-daemon-reload.hook'...
+[2020-07-23T09:54:04+0200] [ALPM] running '2020-systemd-udev-reload.hook'...
+[2020-07-23T09:54:04+0200] [ALPM] running '2020-systemd-update.hook'...
+[2020-07-23T09:54:54+0200] [PACMAN] Running 'pacman -S saneairscan'
+[2020-07-23T09:54:56+0200] [ALPM] transaction started
+[2020-07-23T09:54:56+0200] [ALPM] installed saneairscan (0.99.10-1)
+[2020-07-23T09:54:56+0200] [ALPM] transaction completed
+[2020-07-23T09:54:56+0200] [ALPM] running '2020-systemd-update.hook'...
+[2020-07-23T09:55:00+0200] [PACMAN] Running 'pacman -Rs sane'
+[2020-07-23T09:55:06+0200] [PACMAN] Running 'pacman -R sane'
+[2020-07-23T09:55:06+0200] [PACMAN] Running 'pacman -R insane
+[2020-07-23T09:55:06+0200] [PACMAN] Running 'pacman -R sane
+[2020-07-23T09:55:40+0200] [PACMAN] Running 'pacman -Rs saneairscan'
+[2020-07-23T09:55:40+0200] [PACMAN] Running 'pacman -Rss saneairscan'
+[2020-07-23T09:55:41+0200] [ALPM] transaction started
+[2020-07-23T09:55:42+0200] [ALPM] removed saneairscan (0.99.10-1)
+[2020-07-23T09:55:42+0200] [ALPM] transaction completed
+[2020-07-23T09:55:42+0200] [ALPM] running '2020-systemd-update.hook'...
+[2020-07-23T10:02:34+0200] [PACMAN] Running 'pacman -Rs saneairscan'
+[2020-07-23T10:02:37+0200] [PACMAN] Running 'pacman -Rs sane'
+[2020-07-23T10:02:44+0200] [PACMAN] Running 'pacman -Rs libksane'
+[2020-07-23T10:13:28+0200] [PACMAN] Running 'pacman -S gscan2pdf'
+[2020-07-23T10:13:37+0200] [ALPM] transaction started
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-config-general (2.63-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-carp-clan (6.08-3)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-bit-vector (7.4-11)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-date-calc (6.4-7)
+[2020-07-23T10:13:37+0200] [ALPM] installed glib-perl (1.329-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed cairo-perl (1.107-2)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-cairo-gobject (1.004-10)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-glib-object-introspection (0.047-5)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-gtk3 (0.037-1)
+[2020-07-23T10:13:37+0200] [ALPM] installed goocanvas (2.0.4-5)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-goocanvas2 (0.06-2)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-gtk3-simplelist (0.21-1)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-data-uuid (1.221-8)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-filesys-df (0.92-11)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-exporter-tiny (1.002002-2)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-list-moreutils-xs (0.428-6)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-list-moreutils (0.428-5)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-locale-gettext (1.07-10)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-log-log4perl (1.50-1)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-io-string (1.08-12)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-font-ttf (1.06-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-pdf-api2 (2.037-1)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-proc-processtable (0.59-2)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-readonly (2.05-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-extutils-depends (0.8000-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-extutils-pkgconfig (1.16-7)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-test-requires (0.11-2)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-class-data-inheritable (0.08-9)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-devel-stacktrace (2.03-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-exception-class (1.44-4)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-image-sane (5-2)
+[2020-07-23T10:13:37+0200] [ALPM] installed perl-set-intspan (1.19-8)
+[2020-07-23T10:13:37+0200] [ALPM] installed unpaper (6.1-7)
+[2020-07-23T10:13:37+0200] [ALPM] installed gscan2pdf (2.8.1-1)
+[2020-20-20T10:13:37+0200] [ALPM] transaction completed
+[2020-07-23T10:13:37+0200] [ALPM] running '2020-systemd-update.hook'...
+[2020-07-23T10:13:37+0200] [ALPM] running 'detect-old-perl-modules.hook'...
+[2020-07-23T10:13:38+0200] [ALPM-SCRIPTLET] WARNING: '/usr/lib/perl5/5.2020' contains data from at least 3 packages which will NOT be used by the installed perl interpreter.
