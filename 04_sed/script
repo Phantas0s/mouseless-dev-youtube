@@ -1,0 +1,5 @@
+# This is a command
+
+s/PACMAN/GHOST/
+s/ALPM/GHOST/
+1,100d
